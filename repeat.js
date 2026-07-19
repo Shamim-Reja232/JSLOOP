@@ -16,9 +16,9 @@
 //for (let i = 10 ; i>1; i--){
      //  console.log(i);
 //}
-//Print all odd numbers from 1 to 100.
+//Print all even numbers from 1 to 100.
 for (let i =1; i <=100; i++){
-    if (i % 2 ==0){
+    if (i % 2 ==1){
         console.log(i);
     }
 }
