@@ -16,11 +16,9 @@
 //for (let i = 10 ; i>1; i--){
      //  console.log(i);
 //}
-//Print all even numbers from 1 to 100.
-for (let i =1; i <=100; i++){
-    if (i % 2 ==1){
-        console.log(i);
-    }
+//Print the multiplication table of 7.
+for (let i =1; i <=10; i++){
+    console.log('7X'+ i + '='+ 7*i);
 }
 
 
